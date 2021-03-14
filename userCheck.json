@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "status": "success",
+    "data": {
+        "data": {
+            "status": 1,
+            "message": "Already registered"
+        }
+    }
+}
